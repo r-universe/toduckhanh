@@ -1,5 +1,9 @@
 [
   {
+    "package": "bcROCsurface",
+    "oncran": true
+  },
+  {
     "package": "ClusROC",
     "oncran": true
   }
