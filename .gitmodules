@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bcROCsurface"]
 	path = bcROCsurface
 	url = https://github.com/toduckhanh/bcrocsurface
-	shallow = true
-	registered = true
 [submodule "ClusROC"]
 	path = ClusROC
 	url = https://github.com/toduckhanh/clusroc
-	shallow = true
-	registered = true
