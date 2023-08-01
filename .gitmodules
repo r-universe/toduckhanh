@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bcROCsurface"]
-	path = bcROCsurface
-	url = https://github.com/toduckhanh/bcrocsurface
 [submodule "ClusROC"]
 	path = ClusROC
 	url = https://github.com/toduckhanh/clusroc
+[submodule "bcROCsurface"]
+	path = bcROCsurface
+	url = https://github.com/toduckhanh/bcrocsurface
