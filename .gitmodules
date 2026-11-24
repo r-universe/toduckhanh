@@ -8,3 +8,6 @@
 [submodule "bcROCsurface"]
 	path = bcROCsurface
 	url = https://github.com/toduckhanh/bcrocsurface
+[submodule "emplikDTA"]
+	path = emplikDTA
+	url = https://github.com/toduckhanh/emplikdta
